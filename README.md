@@ -1,4 +1,4 @@
-Automating of Message Sending in Whatsapp
+**Automating of Message Sending in Whatsapp
 
 The aim of this project to send a message to a person multiple time without wiritng it again and again
 New Project
@@ -10,6 +10,6 @@ Any thing that I did wrongly or it can be optimize, so feel free to raise Issues
 Your Suggestions will be welcomed!
 	
 
-Author:
+**Author:
 Vikas Narwaiya
 
